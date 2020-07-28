@@ -60,6 +60,10 @@
 		text-align: justify;
 		margin: 0 0 _size(element-margin) 0;
 	}
+	
+	ul {
+		text-align: left;
+	}
 
 	h1, h2, h3, h4, h5, h6 {
 		font-family: _font(family-heading);
@@ -89,18 +93,24 @@
 	}
 
 	h3 {
-		text-align: left;
-		font-size: 1.75rem;
-		margin: 0 0 (_size(element-margin) * 0.75) 0;
+		text-align: center;
+		font-size: 2rem;
+		margin: 0 0 (_size(element-margin) * 0.35) 0;
 	}
 
 	h4 {
 		text-align: left;
-		font-size: 1rem;
+		font-size: 1.6rem;
+		line-height: 1;
+		margin: (_size(element-margin) * 0.25) 0 (_size(element-margin) * 0.25) 0;
 	}
 
 	h5 {
-		font-size: 0.9rem;
+		text-align: left;
+		font-size: 1.2rem;
+		font-family: _font(family);
+		font-weight: _font(weight-heading);
+		margin: (_size(element-margin) * 0.15) 0 (_size(element-margin) * 0.15) 0;
 	}
 
 	h6 {
@@ -151,8 +161,8 @@
 
 	hr {
 		border: 0;
-		border-bottom: solid 2px;
-		margin: (_size(element-margin) * 1.5) 0;
+		border-bottom: solid 3px;
+		margin: (_size(element-margin) * 0.5) 0;
 
 		&.major {
 			margin: (_size(element-margin) * 2.5) 0;
@@ -208,7 +218,7 @@
 		}
 
 		hr {
-			border-bottom-color: _palette($p, border);
+			border-bottom-color: _palette($p, border-color);
 		}
 	}
 
