@@ -41,6 +41,7 @@
 
 			.logo {
 				@include vendor('transform', 'translateY(2rem)');
+				font-style: normal;
 				opacity: 0;
 				visibility: hidden;
 			}
@@ -60,6 +61,7 @@
 			& + #header {
 				.logo {
 					@include vendor('transform', 'translateY(0)');
+					font-style: normal;
 					opacity: 1;
 					visibility: visible;
 				}

@@ -11,7 +11,7 @@ sitemap:
 <hr>
 <h3>MY PROJECTS</h3>
 <hr>
-Here's you'll find some extra details on my personal projects. Many of them were group projects completed with friends or classmates. Others were agreements with my professors to gain
+Here you'll find some extra details on my personal projects. Many of them were group projects completed with friends or classmates. Others were agreements with my professors to gain
 additional experience and earn honors credit for various courses.
 
 Projects like these are a way for me to explore whatever things I'm curious about at the moment. They vary in scope and difficulty but I've definitely learned many helpful

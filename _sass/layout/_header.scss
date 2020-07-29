@@ -35,12 +35,13 @@
 			font-family: _font(family-heading);
 			font-size: 2.25rem;
 			font-weight: _font(weight-heading);
+			font-style: normal;
 			letter-spacing: 0.075em;
 			line-height: 1;
 			padding: 1rem 1.75rem;
 			text-transform: uppercase;
 			visibility: visible;
-
+			
 			&:hover {
 				border-color: _palette(invert, accent) !important;
 				color: _palette(invert, accent) !important;
