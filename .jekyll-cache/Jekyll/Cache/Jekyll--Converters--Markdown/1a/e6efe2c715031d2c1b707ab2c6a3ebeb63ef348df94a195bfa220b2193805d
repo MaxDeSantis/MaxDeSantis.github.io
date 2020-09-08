@@ -1,17 +1,17 @@
-I"�<hr />
+I"t<hr />
 
 <h3>MY PROJECTS</h3>
 <hr />
 
-<p>Here you’ll find some extra details on my personal projects. Many of them were group projects completed with friends or classmates. Others were agreements with my professors to gain
-additional experience and earn honors credit for various courses.</p>
+<p><i>Here you’ll find some extra details on my personal projects. Many of them were group projects completed with friends or classmates. Others were agreements with my professors to gain
+additional experience and earn honors credit for various courses.</i></p>
 
-<p>Projects like these are a way for me to explore whatever things I’m curious about at the moment. They vary in scope and difficulty but I’ve definitely learned many helpful
-lessons from each one of them so far.</p>
+<p><i>Projects like these are a way for me to explore whatever things I’m curious about at the moment. They vary in scope and difficulty but I’ve definitely learned many helpful
+lessons from each one of them so far. </i></p>
 
 <hr />
 
-<h4>(1)Oxygen Tank Exhaustion Timer</h4>
+<h4>1 - Oxygen Tank Exhaustion Timer</h4>
 <p>During our senior year of high school, myself and two partners (Lucas Hudson and Hayden Herzberger) created a count-down timer for pressurized gas tanks. We were initially inspired when we wanted
 a way to help aging COPD (Chronic Obstructive Pulmonary Disease) patients worry less about their supplementary oxygen tanks running low.</p>
 
@@ -22,7 +22,7 @@ activated at set warning points. I also used a second arduino with a nano-router
 
 <hr />
 
-<h4>(2) Gimbaled Nerf Turret with Facial Detection</h4>
+<h4>2 - Gimbaled Nerf Turret with Facial Detection</h4>
 <p>This project was completed entirely by myself and two friends - Lucas Hudson and Ryan Turner. While brainstorming fun things to make, we came up with the simple thought: what would be the most
 surprising thing our friend could open the door and see? The obvious answer is a moving Nerf blaster with a laser diode following his chest and pelting him with darts.</p>
 
@@ -34,7 +34,16 @@ entertaining way to play around with it.</p>
 
 <hr />
 
-<h4>(3) Infix/Postfix Calculator</h4>
+<h4>3 - This website!</h4>
+<p>During the summer of 2020, I wanted to try my hand at website building. I knew some things about HTML and CSS from our O2 timer’s self-hosted website, but nothing too fancy. Using GitHub Pages
+and a free .me domain (courtesy of the GitHub student dev pack) I was able to start experimenting. As you may have noticed, I didn’t design this entire website. I took a pre-existing format (the Massively
+style provided by HTML5UP) and heavily modified it to suit my needs. Why reinvent the wheel when I’m not planning on becoming a web developer?</p>
+
+<p>Regardless, I learned quite a lot by reverse engineering the existing code as best I could. I’m quite proud of the result.</p>
+
+<hr />
+
+<h4>4 - Infix/Postfix Calculator</h4>
 <p>Although simple, this was my first major C++ development and something of which I’m proud. Completed as an honors contract for my CS2433 (C/C++ Programming) course, this program creates an
 Infix notation (5 + 5 = 10) or a Postfix notation (also known as Reverse Polish Notation | 5 5 + = 10) calculator in the terminal. The user can specify input or output files if desired and store
 constants and variables for future use.</p>
@@ -44,7 +53,7 @@ Infix style ignores the order of operations. Quite a glaring problem! I may come
 
 <hr />
 
-<h4>(4) Peer-to-Peer Battleship</h4>
+<h4>5 - Peer-to-Peer Battleship</h4>
 <p>I created an online multiplayer version of Battleship, complete with functioning chat protocol and GUI using Java. The project was completed as an honors contract for my CS1113 (Java 1) course
 during my Freshman year of college. The simplicity of the game itself allowed me to focus on the more interesting aspects of the project: socket networking and GUI development. I was new
 to both concepts, but quickly became more familiar with the idiosyncrasies of the Java Swing and Net libraries.</p>

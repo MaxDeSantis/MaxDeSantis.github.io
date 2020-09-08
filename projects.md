@@ -40,7 +40,15 @@ Before we disassemble the project for parts, I'm going to try my hand at trainin
 entertaining way to play around with it.
 
 <hr>
-<h4>3 - Infix/Postfix Calculator</h4>
+<h4>3 - This website!</h4>
+During the summer of 2020, I wanted to try my hand at website building. I knew some things about HTML and CSS from our O2 timer's self-hosted website, but nothing too fancy. Using GitHub Pages
+and a free .me domain (courtesy of the GitHub student dev pack) I was able to start experimenting. As you may have noticed, I didn't design this entire website. I took a pre-existing format (the Massively
+style provided by HTML5UP) and heavily modified it to suit my needs. Why reinvent the wheel when I'm not planning on becoming a web developer?
+
+Regardless, I learned quite a lot by reverse engineering the existing code as best I could. I'm quite proud of the result.
+
+<hr>
+<h4>4 - Infix/Postfix Calculator</h4>
 Although simple, this was my first major C++ development and something of which I'm proud. Completed as an honors contract for my CS2433 (C/C++ Programming) course, this program creates an
 Infix notation (5 + 5 = 10) or a Postfix notation (also known as Reverse Polish Notation | 5 5 + = 10) calculator in the terminal. The user can specify input or output files if desired and store
 constants and variables for future use.
@@ -49,7 +57,7 @@ The Postfix notation is implemented as a stack, while the Infix notation uses a 
 Infix style ignores the order of operations. Quite a glaring problem! I may come back someday to implement another method of Infix calculation, in order to abide by PEMDAS.
 
 <hr>
-<h4>4 - Peer-to-Peer Battleship</h4>
+<h4>5 - Peer-to-Peer Battleship</h4>
 I created an online multiplayer version of Battleship, complete with functioning chat protocol and GUI using Java. The project was completed as an honors contract for my CS1113 (Java 1) course
 during my Freshman year of college. The simplicity of the game itself allowed me to focus on the more interesting aspects of the project: socket networking and GUI development. I was new
 to both concepts, but quickly became more familiar with the idiosyncrasies of the Java Swing and Net libraries.

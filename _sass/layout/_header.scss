@@ -42,10 +42,12 @@
 			text-transform: uppercase;
 			visibility: visible;
 			
+			/* DISABLE TURNING BLUE WHEN HOVERING
 			&:hover {
 				border-color: _palette(invert, accent) !important;
 				color: _palette(invert, accent) !important;
 			}
+			*/
 		}
 
 		@include breakpoint(medium) {
