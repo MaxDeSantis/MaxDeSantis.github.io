@@ -7,4 +7,4 @@ gem 'jekyll-mentions'
 gem 'jekyll-feed'
 gem 'jekyll-paginate'
 gem "activesupport", ">= 5.2.4.3"
-gem "nokogiri", ">= 1.10.8"
+gem "nokogiri", ">= 1.10.10"

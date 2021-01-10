@@ -111,7 +111,7 @@ DEPENDENCIES
   jekyll-mentions
   jekyll-paginate
   jekyll-sitemap
-  nokogiri (>= 1.10.8)
+  nokogiri (>= 1.10.10)
 
 BUNDLED WITH
    1.17.2
