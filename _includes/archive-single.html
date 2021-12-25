@@ -35,7 +35,8 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    
+    {% if post.job_title %} <h4 style="margin-top: 0;">{{post.job_title}}</h4>{% endif %}
+    {% if post.time_worked %} <h4 style="margin-top: 0;">{{post.time_worked}}</h4>{% endif %}
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}

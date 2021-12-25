@@ -7,27 +7,13 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My research falls into two main areas: understanding the influence of geography
-on actor behavior before, during, and after civil conflict, and developing new
-tools to improve the study of institutions (both formal and informal) in peace
-and conflict. One strand of research in this first area explores how the
-territories that ethnic groups inhabit shape rebel group formation and condition
-their relationship with the state. My interest in geography also informs
-projects on active conflicts including the targeting of UN peacekeepers by
-insurgent groups, civilian victimization after rebel territorial conquest, and
-communal violence in fragile settings.
+# Interests
+My research interests revolve around the control of autonomous systems. In particular, the coordination and control of both heterogenous and homogenous multi-agent systems. I find all aspects of this problem fascinating - intercommunication amongst agents, outside control through an HMI, and internal control of individual agents. 
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+# Work
+I have explored these interests through my research activities with CoRAL and other activities. My current funded work developing spatiotemporally varying wind simulation and wind-aware piloting interfaces is a direct application of my interests in human control of remote vehicles. It will serve as a stepping stone into further work in the control of multi-agent drone systems. The DORADO project is planned to involve complex inter-agent communication to coordinate the landing and takeoff of a drone onto a mobile aquatic platform. My work on the Autonomous Golf Cart, where I developed embedded low-level control software using PID and ROS, was my introduction to control and a key milestone in my development as a controls engineer.
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+# Plans
 
 <nbsp>
 
