@@ -14,7 +14,7 @@ date: 2019-6-24
 show_date: false
 ---
 
-Senior high school capstone project. Worked on a real-time depletion timer for medical grade oxygen tanks commonly used by COPD patients. Addresses shortcomings of common timing methods with a variety of audiovisual indicators.
+Real-time depletion timer for medical oxygen tanks commonly used by COPD patients. Addresses shortcomings of common timing methods with a variety of audiovisual indicators. Senior high school capstone project. 
 <!--more-->
 
 # Intro
