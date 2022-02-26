@@ -38,3 +38,8 @@
 .container:hover .overlay {
   opacity: 0.25;
 }
+
+.header__bar {
+  border: 1px solid $info-color;
+  opacity: 1;
+}

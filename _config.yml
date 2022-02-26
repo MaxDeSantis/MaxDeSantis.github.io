@@ -84,7 +84,10 @@ analytics:
 author:
   name             : "Max DeSantis"
   avatar           : "headshot.jpg"
-  bio              : "Undergraduate Robotics Researcher. Electrical and Computer Engineering at Oklahoma State University."
+  bio              : |
+                    Undergraduate Robotics Researcher
+                    
+                    Electrical and Computer Engineering at Oklahoma State University
   location         : 
   employer         : 
   pubmed           :
@@ -107,17 +110,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "maxdesantis"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+
 
 
 # Reading Files
