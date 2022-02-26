@@ -3,16 +3,11 @@ title: 'Molex'
 date: Jan 2021 - Aug 2021
 permalink: /experience/molex/
 excerpt_separator: <!--more-->
-toc: false
-share: false
-related: false
-comments: false
-paginate: false
-read_time: false
 job_title: "Software and Electrical Engineering Co-op"
 time_worked: "Jan 2021 - Aug 2021"
 date: 2021-08-01
 show_date: false
+
 ---
 
 Spring and summer co-op as a Software and Electrical Engineer. Developed internal project-independent and real-time data analysis library used internationally and performed automotive hardware validation, among other things.

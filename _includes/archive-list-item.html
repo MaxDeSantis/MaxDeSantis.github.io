@@ -1,0 +1,23 @@
+{{ assign item = archive-list-item}}
+<li class="card hoverable">
+
+    <h3>
+        <a class="post-title stretched-link" href="{{item.url | prepend: site.baseurl }}/">{{ item.title}} </a>
+    </h3>
+
+    {{- if item.time_worked -}}
+        <h4>{{item.time_worked}}</h4>
+    {{- endif -}}
+
+    {{if item.job_title}} 
+    <p class="job_title">
+        {{item.job_title}}
+    </p>
+    {{endif}}
+
+    {{if item.excerpt}} 
+    <p>
+        {{item.excerpt}}
+    </p>
+    {{endif}}
+</li>

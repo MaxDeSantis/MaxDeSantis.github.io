@@ -41,5 +41,59 @@
 
 .header__bar {
   border: 1px solid $info-color;
-  opacity: 1;
+  opacity: .7;
+}
+
+/*
+Archive
+- Archive List
+- - Archive List Item
+- - Archive List Item
+
+Archive List Item
+- Title with link
+- Description
+*/
+
+.archive-list {
+  margin: 0;
+  padding: 0;
+}
+.item-list {
+  margin: 0;
+
+  li {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3%;
+    border: 1px solid $light-gray;
+
+    &:hover {
+      border: 1px solid $info-color;
+    }
+
+    h2,h3,h4 {
+      margin: 0;
+      margin-bottom: .3rem;
+    }
+    p {
+      margin: 0;
+      margin-bottom: .3rem;
+      font-size: $type-size-6;
+    }
+    p.job_title {
+      color: $info-color;
+      font-style: italic;
+    }
+
+    a {
+      text-decoration: none;
+      color: $dark-gray;
+
+      &:hover {
+        color: $info-color;
+        text-decoration: none;
+      }
+    }
+  }
 }

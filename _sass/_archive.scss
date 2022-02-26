@@ -15,10 +15,8 @@
     @include prefix(0.5 of 12);
   }
 
-  
-
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
