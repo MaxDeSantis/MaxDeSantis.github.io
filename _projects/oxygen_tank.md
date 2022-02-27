@@ -29,7 +29,7 @@ This project was completed by a team of myself, Lucas Hudson, and Hayden Herzber
 
 2. Display this information to the user in a straightforward manner.
 
-3. Provide a variety of 
+3. Provide a variety of warning methods including audio, visual, vibrational, push-notifications, web-based, etc.
 
 # Solution
 

@@ -14,7 +14,7 @@ date: 2021-12-24
 show_date: false
 ---
 
-Project for the Mercury Robotics design team in coordination with the Unmanned Systems Research Institute (USRI) at Oklahoma State University. Design and construction of an autonomous pontoon-style boat with onboard quadrotor capable of landing/taking off from the boat. Initial motivation was to seek out the source of an algal bloom by following its gradient in a lake. 
+Design and construction of an autonomous pontoon-style boat with onboard quadrotor capable of landing/taking off from the boat. Initial motivation was to seek out the source of an algal bloom by following its gradient in a lake. Project for the Mercury Robotics design team in coordination with the Unmanned Systems Research Institute (USRI) at Oklahoma State University. 
 <!--more-->
 
 # Intro
