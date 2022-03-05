@@ -22,6 +22,13 @@ gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 
 gem "activesupport", ">= 4.1.11"
+gem "kramdown", ">= 2.3.0"
+gem "addressable", ">= 2.8.0"
+gem "jekyll", ">= 3.6.3"
+
+
+
+
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
