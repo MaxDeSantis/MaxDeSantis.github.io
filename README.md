@@ -4,4 +4,4 @@ Personal website for publications, experience, and projects.
 
 Accessible at:
 
-[maxdesantis.me](maxdesantis.me)
+[maxdesantis.me](https://maxdesantis.me)
