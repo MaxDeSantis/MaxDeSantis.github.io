@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+{% include base_path %}
+
 # Interests
 My research interests revolve around the control of autonomous systems. In particular, the coordination and control of both heterogenous and homogenous multi-agent systems. I find all aspects of this problem fascinating - intercommunication amongst agents, outside control through an HMI, and internal control of individual agents. 
 
