@@ -22,8 +22,8 @@ Like many other websites, this site uses log files to help learn about when, fro
 * Type of device
 * Regional Location (e.g. United States)
 
-All of this information is not linked to anything that is personally identifiable.
+This information is not linked to anything that is personally identifiable.
 
 #### Goat Counter
 
-Goat Counter is the tool used to gather this data. I use it to determine how users engage with the site and its overall exposure. No identifying data is collected, stored, used, or sold in any way. Goat Counter is an open source plataform; read more [here](https://www.goatcounter.com/).
+Goat Counter is the tool used to gather this data. I use it to determine how users engage with the site and its overall exposure. No identifying data is collected, stored, used, or sold in any way. Goat Counter is an open source platform; read more [here](https://www.goatcounter.com/).
