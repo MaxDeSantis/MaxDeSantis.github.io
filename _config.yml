@@ -177,6 +177,11 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
 
 
 # Defaults
