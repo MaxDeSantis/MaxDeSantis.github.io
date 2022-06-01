@@ -13,11 +13,9 @@
     transform: scale(1.25);
   }
 }
-
-.container {
-  position: relative;
-  width: 100%;
-  max-width: 400px;
+.list-container {
+  padding: 0;
+  margin: 0;
 }
 
 /* overlay effect (full height and width) - lays on top of the container */
@@ -37,6 +35,35 @@
 /* When you mouse over the container, fade in the overlay */
 .container:hover .overlay {
   opacity: 0.25;
+}
+
+h2.research_category {
+  width: 100%;
+  text-align: left;
+  border-bottom: 1px solid #000;
+  line-height: 0.1em;
+  margin-bottom: 20px;
+
+
+  span {
+    background: #ffff;
+    padding-right: 0 10px;
+  }
+}
+
+.simple_list {
+  margin-top: .5em;
+  margin-bottom: .5em;
+  margin-left: 0;
+  padding: 0;
+}
+.research-container {
+  p {
+    margin-bottom: 9px;
+    padding: 0;
+    font-size: medium;
+  }
+  
 }
 
 .header__bar {

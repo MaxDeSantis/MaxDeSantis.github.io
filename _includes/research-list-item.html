@@ -1,0 +1,6 @@
+{{ assign item = research-list-item}}
+
+<div class="research-container">
+    <p>{{item.authors}}. '{{item.title}}', {{item.conference}}, {{item.location}}, {{item.date | date: "%Y"}}. <a href="{{item.file}}" target="_blank">View</a></p>
+</div>
+<hr>
