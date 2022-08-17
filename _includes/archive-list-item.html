@@ -1,23 +1,36 @@
-{{ assign item = archive-list-item}}
+{% assign item = archive-list-item %}
 <li class="card hoverable">
 
     <h3>
-        <a class="post-title stretched-link" href="{{item.url | prepend: site.baseurl }}/">{{ item.title}} </a>
+        <a class="post-title stretched-link" href="{{item.url | prepend: site.baseurl }}/">{{ item.title }} </a>
     </h3>
 
-    {{- if item.time_worked -}}
-        <h4>{{item.time_worked}}</h4>
-    {{- endif -}}
+    {% if item.time_worked %}
+        <h4>{{ item.time_worked }}</h4>
+    {% endif %}
 
-    {{if item.job_title}} 
+    {% if item.job_title %} 
     <p class="job_title">
-        {{item.job_title}}
+        {{ item.job_title }}
     </p>
-    {{endif}}
+    {% endif %}
 
-    {{if item.excerpt}} 
+    {% if item.excerpt %} 
     <p>
-        {{item.excerpt}}
+        {{ item.excerpt }}
     </p>
-    {{endif}}
+    {% endif %}
+
+    {% if item.skills %}
+        <p>
+        <strong>Skills | </strong>
+        {% for skill in item.skills %}
+            {% if skill == item.skills.last %}
+                <i>{{ skill }}</i>
+            {% else %}
+                <i>{{ skill }} - </i>
+            {% endif %}
+        {% endfor %}
+        </p>
+    {% endif %}
 </li>

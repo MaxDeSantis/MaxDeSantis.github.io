@@ -11,6 +11,7 @@ read_time: false
 time_worked: "Jun 2020 - Jul 2020"
 date: 2020-6-1
 show_date: false
+skills: [C++]
 ---
 
 Terminal-based calculator supporting infix and postfix (Reverse Polish Notation) type expressions. Allows variable declarations, nested expressions, etc. Honors project for CS 2433 - C/C++ programming.

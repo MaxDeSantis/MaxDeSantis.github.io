@@ -11,6 +11,7 @@ read_time: false
 time_worked: "Jan 2020 - May 2020"
 date: 2020-1-01
 show_date: false
+skills: [Java, socket networking, GUI development]
 ---
 
 Developed online-multiplayer clone of Battleship with fully featured graphical user interface (GUI). Honors project for CS 1113 - Computer Science I.

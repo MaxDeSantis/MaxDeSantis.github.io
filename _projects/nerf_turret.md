@@ -11,6 +11,7 @@ read_time: false
 time_worked: "Jun 2020 - Sep 2020"
 date: 2020-6-1
 show_date: false
+skills: [C++, OpenCV, serial communication]
 ---
 
 Developed two-axis gimballed stand with mounted NERF blaster. Used Raspberry Pi with OpenCV to detect facial features to shoot foam darts at target. Low-level motor control managed with Arduino.

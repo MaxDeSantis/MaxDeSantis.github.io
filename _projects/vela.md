@@ -12,6 +12,7 @@ job_title: "Electrical and Controls Lead"
 time_worked: "Oct 2020 - Jun 2021"
 date: 2021-6-24
 show_date: false
+skills: [ROS, C++, Pixhawk, composite materials, power distribution, antenna design and analysis]
 ---
 
 Development of autonomous search and rescue vehicle to locate and deliver supplies to stranded astronauts after emergency egress from capsule. Completed for the NASA Micro-g design competition.

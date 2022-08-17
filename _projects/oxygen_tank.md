@@ -12,6 +12,7 @@ job_title: "Project and Electrical Lead"
 time_worked: "Aug 2018 - Jun 2019"
 date: 2019-6-24
 show_date: false
+skills: [Microcontrollers, I2C, SPI, wireless communication, Javascript]
 ---
 
 Real-time depletion timer for medical oxygen tanks commonly used by COPD patients. Addresses shortcomings of common timing methods with a variety of audiovisual indicators. Senior high school capstone project. 
