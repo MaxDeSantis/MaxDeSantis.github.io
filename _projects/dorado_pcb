@@ -1,0 +1,18 @@
+---
+title: 'Power Monitoring PCB'
+permalink: /projects/dorado-pcb/
+excerpt_separator: <!--more-->
+toc: true
+share: false
+related: false
+comments: false
+paginate: false
+read_time: false
+time_worked: "Jan 2022 - May 2022"
+date: 2022-01-24
+show_date: false
+skills: [PCB design, PCB layout]
+---
+
+Designed, laid out, and tested custom board with STM32 microprocessor to monitor battery voltage and power draw. Meant to communicate with companion computer over USB connection.
+<!--more-->
