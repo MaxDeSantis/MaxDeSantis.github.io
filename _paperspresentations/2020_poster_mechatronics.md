@@ -1,5 +1,5 @@
 ---
-title: Video-based human-machine interface for intuitive mobile robot control using depth camera
+title: OSU Autonomous Golf Cart
 authors: C. Thornton, D. Colon, <strong>M. DeSantis</strong>, H. Bai
 category: Poster Presentations
 conference: International Mechatronics and Robotics Conference and Exhibition
